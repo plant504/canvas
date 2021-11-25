@@ -4,9 +4,9 @@
     { "id": "COMP312" }
    ],
   "assignments": [
-    { "id": 1, "modules": "COMP311", "name": "Assignment A", "description": "AAA", "due_date": 2021-11-18", "attachment_url": "urlA" },
-    { "id": 2, "modules": "COMP312", "name": "Assignment 1", "description": "Client-side Programming", "due_date": 2021-10-29", "attachment_url": "url1" },
-    { "id": 3, "modules": "COMP312", "name": "Assignment 2", "description": "App Server Programming", "due_date": 2021-11-29", "attachment_url": "url2" }
+    { "id": 1, "modules": "COMP311", "name": "Assignment A", "description": "AAA", "due_date": 2021-11-18", "attachment_url": "https://www.ipm.edu.mo/cntfiles/upload/docs/common/allschool_2021.pdf" },
+    { "id": 2, "modules": "COMP312", "name": "Assignment 1", "description": "Client-side Programming", "due_date": 2021-10-29", "attachment_url": "https://www.ipm.edu.mo/cntfiles/upload/docs/common/allschool_2021.pdf" },
+    { "id": 3, "modules": "COMP312", "name": "Assignment 2", "description": "App Server Programming", "due_date": 2021-11-29", "attachment_url": "https://www.ipm.edu.mo/cntfiles/upload/docs/common/allschool_2021.pdf" }
    ],
   
 }
